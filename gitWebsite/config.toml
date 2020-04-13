@@ -1,0 +1,4 @@
+baseURL = "https://nicolativegna.github.io/"
+languageCode = "en-us"
+title = "Nicola-Tivegna"
+theme = "coder-portfolio"

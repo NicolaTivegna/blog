@@ -1,0 +1,4 @@
+[submodule "gitWebsite/public"]
+	path = gitWebsite/public
+	url = https://github.com/NicolaTivegna/nicolativegna.github.io.git
+	branch = master
